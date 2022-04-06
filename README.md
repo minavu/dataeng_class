@@ -1,1 +1,3 @@
-# dataeng_class
+# Data Engineering
+## Instructor:  Bruce Irvin
+### Spring term 2022 at PSU
